@@ -1,8 +1,10 @@
-🧠 Humanized Professional English Communication & Interview Coach
+# 🧠 Humanized Professional English Communication & Interview Coach
+---
 
 A human-like AI English communication coach and interview trainer designed to help users improve spoken English, professional workplace communication, and interview performance through natural conversation, not robotic correction.
 
-🎯 Project Vision
+## 🎯 Project Vision
+---
 
 Simulate a patient human mentor, not a chatbot
 
@@ -14,7 +16,8 @@ Prepare users for real job interviews
 
 Maintain ethical and privacy-first AI behavior
 
-✨ Key Features
+## ✨ Key Features
+---
 
 🗣️ Spoken English Practice
 
@@ -22,19 +25,22 @@ Voice and text interaction
 
 No interruption while speaking
 
-🔁 Replay-Based Learning
+## 🔁 Replay-Based Learning
+---
 
 Replay user sentence verbatim
 
 Clear correction and explanation flow
 
-🏢 Professional / Office English
+## 🏢 Professional / Office English
+---
 
 Convert casual English to workplace-ready language
 
 Polite and formal communication modeling
 
-🎥 Mock Interview Simulation
+## 🎥 Mock Interview Simulation
+---
 
 Role-based interview questions
 
@@ -42,7 +48,8 @@ Follow-up questions
 
 Real interviewer-like behavior
 
-📊 Post-Interview Feedback
+## 📊 Post-Interview Feedback
+---
 
 Fluency and confidence analysis
 
@@ -50,7 +57,8 @@ Grammar and vocabulary patterns
 
 Actionable improvement plan
 
-🧠 Adaptive Learning
+## 🧠 Adaptive Learning
+---
 
 Tracks repeated mistakes
 
@@ -58,12 +66,14 @@ Gradually increases difficulty
 
 Avoids over-correction
 
-🧩 Supported Modes
+## 🧩 Supported Modes
+---
 Mode	Purpose	Behavior
 Practice Mode	Daily spoken English	Natural reply → replay → correction
 Office Mode	Workplace communication	Polite, professional language
 Interview Mode	Mock interviews	No interruption, no live correction
-🏗️ System Design Principles
+## 🏗️ System Design Principles
+---
 
 Human-first interaction
 
@@ -75,14 +85,16 @@ Ethical AI boundaries
 
 Modular and scalable architecture
 
-📁 Repository Structure
+## 📁 Repository Structure
+---
 SRS/            # Complete Software Requirements Specification
 docs/           # Architecture & flow diagrams
 design-notes/   # AI behavior & interview logic
 future-scope/   # Planned versions (v2, v3)
 
 
-📘 All technical and behavioral details are documented inside the SRS/ folder.
+## 📘 All technical and behavioral details are documented inside the SRS/ folder.
+---
 
 📌 Project Status
 
@@ -92,7 +104,8 @@ future-scope/   # Planned versions (v2, v3)
 
 🔮 Advanced analytics & AI explainability planned
 
-👤 Author
+## 👤 Author
+---
 
 Ankesh Kumar Thakur
 BCA Student | Cybersecurity & AI Enthusiast
@@ -107,6 +120,8 @@ No medical or psychological diagnosis
 
 Designed for learning and professional growth only
 
-📜 License
+## 📜 License
+---
 
 This project is intended for educational and research purposes.
+---
