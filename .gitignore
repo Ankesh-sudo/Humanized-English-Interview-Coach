@@ -1,0 +1,81 @@
+# ===============================
+# OS Generated Files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# Editor / IDE Files
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# ===============================
+# Python (future implementation)
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+
+# ===============================
+# Node / Frontend (future scope)
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Build / Dist
+# ===============================
+build/
+dist/
+
+# ===============================
+# Temporary Files
+# ===============================
+*.temp
+*.cache
+
+# ===============================
+# SRS Working Files (IMPORTANT)
+# ===============================
+# Ignore temporary Word files
+~$*.docx
+
+# Ignore backup copies
+*.docx.bak
+
+# ===============================
+# Diagrams / Design Tools
+# ===============================
+*.drawio~
+*.drawio.bkp
+
+# ===============================
+# Secrets / Keys (Safety)
+# ===============================
+*.key
+*.pem
+*.secret
+
+# ===============================
+# Do NOT ignore these (explicit)
+# ===============================
+!README.md
+!.gitignore
