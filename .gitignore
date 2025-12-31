@@ -58,6 +58,7 @@ dist/
 # Ignore temporary Word files
 ~$*.docx
 
+
 # Ignore backup copies
 *.docx.bak
 

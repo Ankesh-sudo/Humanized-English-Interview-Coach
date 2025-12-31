@@ -2,6 +2,8 @@
 ---
 
 A human-like AI English communication coach and interview trainer designed to help users improve spoken English, professional workplace communication, and interview performance through natural conversation, not robotic correction.
+
+
 ---
 ## 🎯 Project Vision
 
@@ -14,6 +16,7 @@ Support daily spoken English practice
 Prepare users for real job interviews
 
 Maintain ethical and privacy-first AI behavior
+
 ---
 ## ✨ Key Features
 
@@ -23,6 +26,7 @@ Maintain ethical and privacy-first AI behavior
 Voice and text interaction
 
 No interruption while speaking
+
 ---
 ## 🔁 Replay-Based Learning
 
@@ -37,6 +41,7 @@ Clear correction and explanation flow
 Convert casual English to workplace-ready language
 
 Polite and formal communication modeling
+
 ---
 ## 🎥 Mock Interview Simulation
 
@@ -54,6 +59,7 @@ Fluency and confidence analysis
 Grammar and vocabulary patterns
 
 Actionable improvement plan
+
 ---
 ## 🧠 Adaptive Learning
 
@@ -62,12 +68,14 @@ Tracks repeated mistakes
 Gradually increases difficulty
 
 Avoids over-correction
+
 ---
 ## 🧩 Supported Modes
 Mode	Purpose	Behavior
 Practice Mode	Daily spoken English	Natural reply → replay → correction
 Office Mode	Workplace communication	Polite, professional language
 Interview Mode	Mock interviews	No interruption, no live correction
+
 ---
 ## 🏗️ System Design Principles
 
@@ -80,6 +88,7 @@ Mode-based behavior control
 Ethical AI boundaries
 
 Modular and scalable architecture
+
 ---
 ## 📁 Repository Structure
 SRS/            # Complete Software Requirements Specification
@@ -97,6 +106,7 @@ future-scope/   # Planned versions (v2, v3)
 🚧 Implementation planned
 
 🔮 Advanced analytics & AI explainability planned
+
 ---
 ## 👤 Author
 
@@ -118,4 +128,5 @@ Designed for learning and professional growth only
 ## 📜 License
 
 This project is intended for educational and research purposes.
+
 ---
